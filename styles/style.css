@@ -1,0 +1,12 @@
+.btn-close{
+  position: absolute;
+  height: auto;
+  width: auto;
+  left: auto;
+  right: 0px;
+  bottom: auto;
+  top: 0px;
+  
+  background-color: brown;
+};
+
